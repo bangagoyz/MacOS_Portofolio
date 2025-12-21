@@ -101,28 +101,29 @@ const blogPosts = [
 
 const techStack = [
   {
-    category: "Frontend",
-    items: ["React.js", "Next.js", "TypeScript"],
+    category: "AI",
+    items: ["Pytorch", "YOLO", "LLM RAG", "Mediapipe"],
   },
   {
-    category: "Mobile",
-    items: ["React Native", "Expo"],
-  },
-  {
-    category: "Styling",
-    items: ["Tailwind CSS", "Sass", "CSS"],
+    category: "Business Apps",
+    items: ["Odoo 8", "Odoo 17", "Odoo 16"],
   },
   {
     category: "Backend",
-    items: ["Node.js", "Express", "NestJS", "Hono"],
+    items: ["Python", "Odoo ORM", "golang", "Node.js"],
+  },
+
+  {
+    category: "Automation",
+    items: ["Selenium", "BS4", "Shell"],
   },
   {
     category: "Database",
-    items: ["MongoDB", "PostgreSQL"],
+    items: ["PostgreSQL", "MySQL"],
   },
   {
     category: "Dev Tools",
-    items: ["Git", "GitHub", "Docker"],
+    items: ["Docker", "GitHub", "Git"],
   },
 ];
 
